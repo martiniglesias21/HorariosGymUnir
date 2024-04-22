@@ -1,0 +1,36 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-image: url(img/fondo.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+table{
+    margin: auto;
+    margin-top: 100px;
+    height: 800px;
+    width: 1120px;
+    text-align: center;
+    background-color:black;
+    color: aliceblue;
+}
+table, tr, td{
+    border: 2px solid;
+    border-color: coral;
+}
+caption{
+    font-size: 48px;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    color: coral;
+}
+td:hover{
+    color: coral;
+}
